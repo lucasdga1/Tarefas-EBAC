@@ -11,7 +11,7 @@
 * Requisitos: Ter uma plataforma de escrita em Python ou executar no prompt de comando
 * Instalação: Copiar e colar o código; executar o código
 * Uso: Coletar dados de sites e, neste código, listar títulos, preços, e contar quantidade de itens localizados nos dados coletados.
-* <a href="
+* <a href="https://github.com/lucasdga1/Tarefas-EBAC/blob/main/Data_scraping_lab.py">Código de Web Scraping<a/> 
 
 ## Contribuição
 Contribuições são sempre bem-vindas! Se você deseja ajudar a melhorar este projeto, siga os passos abaixo: 
