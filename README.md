@@ -13,4 +13,4 @@
 ## Autoria
 
 ## Contato
-<a href="lucas.dga1@gmail.com">Gmail<a/>
+<a href="mailto:lucas.dga1@gmail.com">Me envie um email<a/>
