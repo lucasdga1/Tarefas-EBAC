@@ -7,6 +7,11 @@
 * Uso: Fazer cálculos aritméticos simples.
 * <a href="https://github.com/lucasdga1/Tarefas-EBAC/blob/main/Tarefa_python1.ipynb">Calculadora interativa</a>
 
+## Web scraping básico
+* Requisitos: Ter uma plataforma de escrita em Python ou executar no prompt de comando
+* Instalação: Copiar e colar o código; executar o código
+* Uso: Coletar dados de sites e, neste código, listar títulos, preços, e contar quantidade de itens localizados nos dados coletados.
+* <a href="
 
 ## Contribuição
 Contribuições são sempre bem-vindas! Se você deseja ajudar a melhorar este projeto, siga os passos abaixo: 
