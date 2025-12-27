@@ -11,7 +11,13 @@
 * Requisitos: Ter uma plataforma de escrita em Python ou executar no prompt de comando
 * Instalação: Copiar e colar o código; executar o código
 * Uso: Coletar dados de sites e, neste código, listar títulos, preços, e contar quantidade de itens localizados nos dados coletados.
-* <a href="https://github.com/lucasdga1/Tarefas-EBAC/blob/main/Data_scraping_lab.py">Código de Web Scraping<a/> 
+* <a href="https://github.com/lucasdga1/Tarefas-EBAC/blob/main/Data_scraping_lab.py">Código de Web Scraping</a> 
+
+## Tratamento de dados
+* Requisitos: Ter uma plataforma de escrita em Python ou executar no prompt de comando, ter o módulo Pandas instalado
+* Instalação: Copiar e colar o código; executar o código. O documento CSV é fictício, logo você deverá substituí-lo por um real (filepath.csv)
+* Uso: Realizar o tratamento de dados por meio de diversas técnicas, incluindo fórmula lambda, para posteriormente poder realizar análises e estudos nessa base de dados.
+* <a href="https://github.com/lucasdga1/Tarefas-EBAC/blob/main/Lab_tratamento_dados.py">Código de tratamento de dados</a>
 
 ## Contribuição
 Contribuições são sempre bem-vindas! Se você deseja ajudar a melhorar este projeto, siga os passos abaixo: 
