@@ -14,10 +14,16 @@
 * <a href="https://github.com/lucasdga1/Tarefas-EBAC/blob/main/Data_scraping_lab.py">Código de Web Scraping</a> 
 
 ## Tratamento de dados
-* Requisitos: Ter uma plataforma de escrita em Python ou executar no prompt de comando, ter o módulo Pandas instalado
+* Requisitos: Ter uma plataforma de escrita em Python ou executar no prompt de comando, ter a biblioteca Pandas instalado
 * Instalação: Copiar e colar o código; executar o código. O documento CSV é fictício, logo você deverá substituí-lo por um real (filepath.csv)
 * Uso: Realizar o tratamento de dados por meio de diversas técnicas, incluindo fórmula lambda, para posteriormente poder realizar análises e estudos nessa base de dados.
 * <a href="https://github.com/lucasdga1/Tarefas-EBAC/blob/main/Lab_tratamento_dados.py">Código de tratamento de dados</a>
+
+## Preparação de dados
+* Requisitos: Ter uma plataforma de escrita em Python ou executar no prompt de comando, ter a biblioteca Pandas instalado, e a biblioteca Sklearn 
+* Instalação: Copiar e colar o código; executar o código. O documento CSV é fictício, logo você deverá substituí-lo por um real (filepath.csv)
+* Uso: Realizar o tratamento, preparação, normalização e engenharia de features para poder realizar análises e obter insights com base nos dados.
+* <a href="https://github.com/lucasdga1/Tarefas-EBAC/blob/main/Lab_prep_dados.py">Código de preparação de dados<a/>
 
 ## Contribuição
 Contribuições são sempre bem-vindas! Se você deseja ajudar a melhorar este projeto, siga os passos abaixo: 
