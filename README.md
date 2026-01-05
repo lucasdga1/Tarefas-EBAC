@@ -25,7 +25,20 @@
 * Uso: Realizar o tratamento, preparação, normalização e engenharia de features para poder realizar análises e obter insights com base nos dados.
 * <a href="https://github.com/lucasdga1/Tarefas-EBAC/blob/main/Lab_prep_dados.py">Código de preparação de dados<a/>
 
+## Visualização de dados
+* Requisitos: Ter uma plataforma de escrita em Jupyter, ter a biblioteca Pandas instalado, a biblioteca Matplotlib, e a biblioteca Seaborn;
+* Instalação: Copiar e colar o código; executar o código. O documento CSV é fictício, logo você deverá substituí-lo por um real (filepath.csv)
+* Uso: Realizar o tratamento, preparação, normalização, e gerar gráficos por meio de códigos para obter insights sobre os dados.
+* <a href="https://github.com/lucasdga1/Tarefas-EBAC/blob/main/PCDM10_Resolvido.ipynb">Código de visualização de dados<a/>
+<img width="257" height="218" alt="heatmap" src="https://github.com/user-attachments/assets/4c1d6759-15dd-4e7a-af77-745fe061b460" />
+<img width="257" height="218" alt="Dispercao" src="https://github.com/user-attachments/assets/d4db3210-afb2-4671-acf8-dd587c7c4c6e" />
+<img width="257" height="218" alt="pie" src="https://github.com/user-attachments/assets/e9628b3d-4d23-48b9-8f56-94a229679ca1" />
+<img width="257" height="218" alt="Densidade" src="https://github.com/user-attachments/assets/27f7a93e-b3fd-4cfa-8294-a705e854a508" />
+<img width="257" height="218" alt="Bar" src="https://github.com/user-attachments/assets/ab99c761-7444-4a03-9653-4fa96be4d8ac" />
+
+
 ## Contribuição
+
 Contribuições são sempre bem-vindas! Se você deseja ajudar a melhorar este projeto, siga os passos abaixo: 
 1. Faça um **fork** do repositório
 2. Crie uma branch para sua feature ou correção ```bash git checkout -b minha-feature
